@@ -1,4 +1,4 @@
-# trabalho_conclusao_game_lua
+# trabalho_conclusao_GameLua_ECOCHAMPS
 Trabalho de conclusão do curso Além de Jogar, Eu Faço Jogos!
 
 Esta é a versão final do jogo Eco Champs – O desafio da Coleta Seletiva. Meu trabalho de conclusão do curso "Além de Jogar, eu Faço Jogos", oferecido pelo CPDI Fpolis em 2023. Construímos também um site em HTML5 e CSS3 para a apresentação do jogo. 
